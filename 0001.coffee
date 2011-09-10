@@ -26,6 +26,6 @@ alert answer
 Purely JS
 
 var answer=0;
-for(var x =0; x<1000; x+=1) if(x%5===0 || x%3===0) answer+=x;
+for(var x=0; x<1000; x+=1) if(x%5===0 || x%3===0) answer+=x;
 
 ###
